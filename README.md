@@ -1,4 +1,4 @@
 # script-de-automatizacionssh
 
-chmod +x setup-ssh.sh
-./setup-ssh.sh
+chmod +x setup-github.sh
+./setup-github.sh
